@@ -112,7 +112,7 @@ Distribuído sob a Licença MIT. Veja `LICENSE` para mais informações.
 
 ## Autores
 
-- **Seu Nome** - [Dr Dheiver Francisco Santos](https://github.com/dheiver2)
+- [Dr Dheiver Francisco Santos](https://www.linkedin.com/in/dheiver-santos/)
 
 ## Agradecimentos
 
