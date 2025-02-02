@@ -54,7 +54,7 @@ npm run build
 ## Capturas de Tela
 
 <div align="center">
-  <img src="public/screenshot(2).png"/>
+  <img src="public/screenshot (2).png"/>
 </div>
 
 ## Estrutura do Projeto
