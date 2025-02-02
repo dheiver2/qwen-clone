@@ -1,7 +1,7 @@
 # Clone Qwen
 
 <div align="center">
-  <img src="/api/placeholder/120/120" alt="Logo Qwen" width="120px" height="120px"/>
+  <img src="public/logo.png" alt="Logo Qwen" width="120px" height="120px"/>
   
   Um clone minimalista da interface de chat Qwen construído com React e Tailwind CSS.
 </div>
