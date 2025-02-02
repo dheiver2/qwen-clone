@@ -54,7 +54,7 @@ npm run build
 ## Capturas de Tela
 
 <div align="center">
-  <img src="/api/placeholder/800/400" alt="Screenshot da Interface Qwen" width="800px"/>
+  <img src="public/screenshot.png"/>
 </div>
 
 ## Estrutura do Projeto
