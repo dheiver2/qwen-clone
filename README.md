@@ -2,8 +2,6 @@
 
 <div align="center">
   <img src="public/logo.png"/>
-  
-  Um clone minimalista da interface de chat Qwen construído com React e Tailwind CSS.
 </div>
 
 ## Tecnologias Utilizadas
@@ -114,7 +112,7 @@ Distribuído sob a Licença MIT. Veja `LICENSE` para mais informações.
 
 ## Autores
 
-- **Seu Nome** - [seu-usuario](https://github.com/seu-usuario)
+- **Seu Nome** - [Dr Dheiver Francisco Santos](https://github.com/dheiver2
 
 ## Agradecimentos
 
